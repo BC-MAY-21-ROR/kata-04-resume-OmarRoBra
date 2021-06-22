@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jesus Omar Rodriguez Bravo # Nombre completo
+  tagline: RRuby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: jomarbravo67@gmail.com
+  phone: 3131374763
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: https://www.linkedin.com/in/jesus-omar-rodriguez-bravo-191531196/
+  github: OmarRoBra
+  gitlab: https://gitlab.com/OmarRoBra
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@DMomarbravo'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: French
+      level: Beginner
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -45,50 +45,36 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Empathy
+      link:
+      
+    - item: Critical Thinking, problem solving 
+      link: # dejar en blanco
+      
+    - item: Self-taugth
+      
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+   I am a software engineer with experience in web development, I have been involved in project development, being part of both back end and front end teams, I have developed mainly with JavaScript and its frameworks such as NodeJS and React, I really like working as a team and collaborate with my colleagues forming an environment of collaboration and great communicationunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering 
+    university:  Universidad De Colima
+    time: 2018  - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+  
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Full stack Developer
+    time: 2020 - present 
+    company: Leanber, MTY, México
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,9 +88,19 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Back end developer
+    time: 2020-2021
+    company: Secretaria de Salud
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+      
+ - role: Back end developer
+    time: 2020-2021
+    company: Pelao' Camarón
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,20 +121,20 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: JavaScript
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: ReactJs
+      level: 70%
 
-    - name: C/C++
-      level: 40%
+    - name: NodeJs
+      level: 75%
+
+    - name: Daata Bases
+      level: 50%
+
+    - name: CSS
+      level: 50%
 
 # NO MODIFICAR
 footer: >
