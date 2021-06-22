@@ -1,22 +1,23 @@
 #
 # Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
+
 sidebar:
   about: False # NO MODIFICAR
   education: False # NO MODIFICAR
 
   # Profile information
   name: Jesus Omar Rodriguez Bravo # Nombre completo
-  tagline: RRuby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: jomarbravo67@gmail.com
   phone: 3131374763
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/jesus-omar-rodriguez-bravo-191531196/
+  linkedin: www.linkedin.com/in/jesus-omar-rodriguez-bravo-191531196/
   github: OmarRoBra
-  gitlab: https://gitlab.com/OmarRoBra
+  gitlab: OmarRoBra
   bitbucket:
   twitter: '@DMomarbravo'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -124,16 +125,16 @@ skills:
       level: 80%
 
     - name: ReactJs
-      level: 70%
+      level: 80%
 
     - name: NodeJs
-      level: 75%
+      level: 80%
 
     - name: Daata Bases
-      level: 50%
+      level: 60%
 
     - name: CSS
-      level: 50%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
