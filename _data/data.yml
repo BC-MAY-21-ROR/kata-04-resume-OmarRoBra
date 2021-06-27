@@ -67,8 +67,9 @@ educationcomplete:
   - degree: Software Engineering 
     university:  Universidad De Colima
     time: 2018  - current
-     details: |
-
+    details: |
+      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Full stack Developer
