@@ -70,9 +70,9 @@ educationcomplete:
       
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Full stack Developer
-    time: 2020 - present 
-    company: Leanber, Monterrey
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -85,26 +85,15 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Back end developer
-    time: 2020 - 2021
-    company: Secretaria de Salud, Colima
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-      
- - role: Back end developer
-    time: 2020 - 2021
-    company: Pelao camaron, Colima
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -118,20 +107,20 @@ skills:
     - name: Python
       level: 20%
 
-    - name: JavaScript
-      level: 80%
+    - name: PyTorch
+      level: 40%
 
-    - name: ReactJs
-      level: 80%
-
-    - name: NodeJs
-      level: 80%
-
-    - name: Daata Bases
+    - name: Tensorflow
       level: 60%
 
-    - name: CSS
-      level: 60%
+    - name: Caffe
+      level: 80%
+
+    - name: Matlab
+      level: 100%
+
+    - name: C/C++
+      level: 40%
 
 # NO MODIFICAR
 footer: >
