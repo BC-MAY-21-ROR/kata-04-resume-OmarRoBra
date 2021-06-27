@@ -55,7 +55,7 @@ sidebar:
     - item: Self-taugth
       link: # dejar en blan
 
-# R Registra aquí un resumen de tu perfil
+# Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
@@ -67,11 +67,12 @@ educationcomplete:
     time: 2018  - current
     details: |
       Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Full stack Developer
     time: 2020 - present 
-    company: Leanber, MTY, México
+    company: Leanber, Monterrey
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,7 +87,7 @@ experiences:
         - Bullet point
   - role: Back end developer
     time: 2020 - 2021
-    company: Secretaria de Salud
+    company: Secretaria de Salud, Colima
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,13 +97,14 @@ experiences:
       
  - role: Back end developer
     time: 2020 - 2021
-    company: Pelao' Camarón
+    company: Pelao camaron, Colima
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
+      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
