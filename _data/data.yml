@@ -104,7 +104,7 @@ experiences:
 skills:
   title: Technical Skills # NO MODIFICAR
 
-  toolset:
+ toolset:
     - name: Python
       level: 20%
 
