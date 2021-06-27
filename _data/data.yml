@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: French
+      level: Beginner
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -45,6 +45,15 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Empathy
+      link: # dejar en blan
+      
+    - item: Critical Thinking, problem solving 
+      link: # dejar en blanco
+      
+    - item: Self-taugth
+      link: # dejar en blan
 
 # Registra aquí un resumen de tu perfil
 career-profile:
