@@ -62,30 +62,11 @@ career-profile:
    I am a software engineer with experience in web development, I have been involved in project development, being part of both back end and front end teams, I have developed mainly with JavaScript and its frameworks such as NodeJS and React, I really like working as a team and collaborate with my colleagues forming an environment of collaboration and great communication.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Software Engineering 
+    university:  Universidad De Colima
+    time: 2018  - current
     details: |
       Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-        - Deep learning
-        - Hand Gesture
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Lead Developer
