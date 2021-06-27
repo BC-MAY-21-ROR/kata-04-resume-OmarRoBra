@@ -104,25 +104,25 @@ experiences:
 skills:
   title: Technical Skills # NO MODIFICAR
 
- toolset:
+  toolset:
     - name: Python
       level: 20%
 
-    - name: JavaScript
-      level: 80%
+    - name: PyTorch
+      level: 40%
 
-    - name: ReactJs
-      level: 80%
-
-    - name: NodeJs
-      level: 80%
-
-    - name: Daata Bases
+    - name: Tensorflow
       level: 60%
 
-    - name: CSS
-      level: 60%
+    - name: Caffe
+      level: 80%
 
+    - name: Matlab
+      level: 100%
+
+    - name: C/C++
+      level: 40%
+      
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
