@@ -15,7 +15,7 @@ sidebar:
   email: jomarbravo67@gmail.com
   phone: 3131374763
   website: # No agregar http://
-  linkedin: www.linkedin.com/in/jesus-omar-rodriguez-bravo-191531196/
+  linkedin: jesus-omar-rodriguez-bravo-191531196
   github: OmarRoBra
   gitlab: OmarRoBra
   bitbucket:
@@ -67,6 +67,7 @@ educationcomplete:
   - degree: Software Engineering 
     university:  Universidad De Colima
     time: 2018  - current
+     details: |
 
   
 
