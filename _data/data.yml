@@ -12,18 +12,18 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: jomarbravo67@gmail.com
+  phone: 3131374763
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: jesus-omar-rodriguez-bravo-191531196
+  github: OmarRoBra
+  gitlab: OmarRoBra
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@DMomarbravo'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-
+  
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
