@@ -55,11 +55,11 @@ sidebar:
     - item: Self-taugth
       link: # dejar en blan
 
-# Registra aquí un resumen de tu perfil
+# R Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+   I am a software engineer with experience in web development, I have been involved in project development, being part of both back end and front end teams, I have developed mainly with JavaScript and its frameworks such as NodeJS and React, I really like working as a team and collaborate with my colleagues forming an environment of collaboration and great communication.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Applied Scientist full-time at AWS
