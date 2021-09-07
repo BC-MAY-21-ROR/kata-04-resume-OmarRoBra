@@ -1,16 +1,13 @@
 #
 # Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
-
 sidebar:
   about: False # NO MODIFICAR
   education: False # NO MODIFICAR
-
   # Profile information
   name: Jesus Omar Rodriguez Bravo # Nombre completo
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
-
   # Actualiza tus datos de contacto
   email: jomarbravo67@gmail.com
   phone: 3131374763
@@ -28,21 +25,16 @@ sidebar:
   languages:
     - idiom: English
       level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
     - idiom: French
       level: Beginner
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
-
     - item: Team Work
       link: # dejar en blanco
-
     - item: Time Management
       link: # dejar en blanco
       
@@ -54,7 +46,6 @@ sidebar:
       
     - item: Self-taugth
       link: # dejar en blan
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -70,21 +61,22 @@ educationcomplete:
       
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
   - role: Full stack Developer
     time: 2020 - present 
     company:  Leanber, Monterrey
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+@@ -85,9 +85,20 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
         
   - role: Back end developer
     time: 2020 - 2021
@@ -114,23 +106,17 @@ experiences:
 # 100% para Expert
 skills:
   title: Technical Skills # NO MODIFICAR
-
   toolset:
     - name: Python
       level: 20%
-
     - name: JavaScript
       level: 80%
-
     - name: ReactJs
       level: 80%
-
     - name: NodeJs
       level: 80%
-
     - name: Daata Bases
       level: 60%
-
     - name: CSS
       level: 60%
       
