@@ -75,6 +75,10 @@ experiences:
   - role: Lead Developer
     time: 2015 - Present
     company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      architecto beatae vitae dicta sunt explicabo.
   - role: Full stack Developer
     time: 2020 - present 
     company:  Leanber, Monterrey
@@ -86,7 +90,11 @@ experiences:
         - Bullet point
   - role: Senior Software Engineer
     time: 2014 - 2015
-    company: Google, London       
+    company: Google, London   
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      architecto beatae vitae dicta sunt explicabo.
   - role: Back end developer
     time: 2020 - 2021
     company: Secretaria de Salud, Colima
