@@ -143,20 +143,32 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: JavaScript
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: React
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: NodeJs
+      level: 70%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
+      level: 60%
+      
+    - name: MySql
+      level: 70%
+      
+    - name: NoSQL/MongoDb
+      level: 60%
+      
+    - name: TypeScript
+      level: 65%
+      
+    - name: Graphql
+      level: 50%
 
 # NO MODIFICAR
 footer: >
