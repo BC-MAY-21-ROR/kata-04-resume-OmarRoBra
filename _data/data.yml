@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jesus Omar Rodriguez Bravo # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
-
+  
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: jomarbravo67@gmail.com
+  phone: 3131374763
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: jesus-omar-rodriguez-bravo-191531196
+  github: OmarRoBra
+  gitlab: OmarRoBra
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@DMomarbravo'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
