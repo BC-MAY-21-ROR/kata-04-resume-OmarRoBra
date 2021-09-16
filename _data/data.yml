@@ -35,6 +35,9 @@ sidebar:
     - idiom: French
       level: Beginner
       
+    - idiom: Korean
+      level: Beginner
+      
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
@@ -88,29 +91,22 @@ experiences:
     time: 2020 - present 
     company:  ContentPi, California
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Full stack developer as a mentee, i'm part of a small team that develops IT solutions
+      Like a CRM and a Headless CMS, using technologies like React, TypeScript,Graphql, NodeJs,
+      NextJs, Postgress and webpack
   - role: Back end developer
     time: 2020 - 2021
     company: Secretaria de Salud, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As part of my social service i was involved in the development of and API
+      and many web services for the registration of payroll and biweekly payments
+      Using NodeJs and MySQL
   - role: Back end developer
     time: 2020 - 2021
     company: Pelao Camaron, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      As project of our school i participated in the BACK-END team as developer for a local restaurant 
+      Using Technologies as NodeJs, React and mongo db
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
