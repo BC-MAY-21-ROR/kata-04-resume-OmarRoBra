@@ -69,22 +69,16 @@ educationcomplete:
     university:  Universidad De Colima
     time: 2018  - current
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      Current student in Universidad De Colima
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Full stack Developer
     time: 2020 - present 
-    company:  Leanber, Monterrey
+    company:  Leanber, Monterrey (Start up)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Part of the development team in a startup located in Monterrey, we create web platforms for companys and bussines
+      who wants and tecnology solutions, we use technologies such as React, PhP, MongoDb,NodeJs and MySql
+      I was part of two projects:
         - Huppler E-Commerce
         - Beneddetis E-learning platform
   - role: Full stack Developer
